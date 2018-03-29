@@ -11,6 +11,7 @@ struct aeroflot{
 
 typedef struct aeroflot aeroflot;
 
+//gsyduifudhhg
 
 
 void sort(aeroflot *array){
